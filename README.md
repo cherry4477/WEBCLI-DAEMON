@@ -7,4 +7,4 @@ DataHub web ，通过用户名、密码登录DataHub server。
 * 第二步，用户成功登录Daemon后若有需要访问SERVER的操作，则WEB  CLI向Daemon发送登录Server指令。
 
 ###1.3 业务流程图
-![image](http://WEBCLI-DAEMON/tongxinjizhi.jpg)
+![image](https://github.com/asiainfoLDP/WEBCLI-DAEMON/blob/master/tongxinjizhi.jpg)
